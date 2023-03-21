@@ -59,7 +59,7 @@
                     <div>
                         <div>
                             <center>
-                            <h2>Login</h2>
+                            <h2>LOGIN</h2>
                             <div>
                                 <h4>Email</h4>
                                 <input type="email" class="styled-input" name="email" placeholder="Enter Your Email" >
